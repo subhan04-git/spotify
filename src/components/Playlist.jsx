@@ -4,6 +4,13 @@ const Playlist = () => {
   return (
     <div>
         <span>playlist</span>
+        <span>playlist</span>
+        <span>playlist</span>
+        <span>playlist</span>
+        <span>playlist</span>
+        <span>playlist</span>
+        <span>playlist</span>
+        <span>playlist</span>
     </div>
   )
 }
